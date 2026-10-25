@@ -1,0 +1,5 @@
+http://test-site/
+http://test-site/no-such-page
+http://no-such-host.invalid
+http://10.255.255.1
+http://test-site/index.html
